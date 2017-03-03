@@ -1,0 +1,23 @@
+body {
+
+  background-image:url("https://farm8.static.flickr.com/7586/16870884041_c75d42e739_b.jpg");
+  font-family: 'Barrio', cursive;
+font-family: 'Supermercado One', cursive;
+font-family: 'Griffy', cursive;
+font-family: 'Lobster', cursive;
+  font-size: 30px;
+}
+
+.container {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.news-list-item {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.jumbotron {
+  text-align: center;
+}

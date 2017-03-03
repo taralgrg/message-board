@@ -1,0 +1,21 @@
+{ "questions": [{
+    "content": "Story of life",
+    "author": "A. Johnson",
+    "additional_notes": "The life of A. Johnson"
+  }, {
+    "content": "Believing",
+    "author": "Veruca Salt",
+    "additional_notes": "Strength in failing"
+  }, {
+    "content": "The Master-mind",
+    "author": "T Gurung",
+    "additional_notes": "Business Philosophy"
+  }],
+  "answers": [{
+    "author": "Andrea",
+    "content": "Did not fall down."
+  }, {
+    "author": "Alex",
+    "content": "Nice view of the volcano!"
+  }]
+}

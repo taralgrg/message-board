@@ -1,0 +1,24 @@
+<h1> We Answer your Questions!! </h1>
+
+We hope you find exactly the answer you're looking for.
+
+<h2> User Questions </h2>
+
+<ul>
+  {{#each model.questions as |question|}}
+    {{question-tile question=question}}
+  {{/each}}
+</ul>
+
+{{new-question saveQuestion2="saveQuestion3"}}
+
+<!-- <h2> All Answers </h2> -->
+
+<ul>
+  {{#each model.answers as |answer|}}
+    <li>{{question.content}} - {{question.author}} - by {{question.additional_notes}}</li>
+  {{/each}}
+</ul>
+
+
+<hr>
